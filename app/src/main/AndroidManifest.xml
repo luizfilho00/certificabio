@@ -3,9 +3,10 @@
     package="br.com.example.certificabio">
 
     <application
-        android:allowBackup="true"
+        android:allowBackup="false"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
+        android:name=".CertificaBioApp"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.CertificaBio">
